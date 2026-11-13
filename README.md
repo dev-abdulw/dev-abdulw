@@ -1,6 +1,10 @@
 <!-- ============ HEADER ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C0E,50:3a1c71,100:d76d77&height=160&section=header" width="100%"/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C0E,50:3a1c71,100:d76d77&height=220&section=header&text=Abdul%20Wahab&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20AI%20Engineer&descAlignY=60&descSize=22" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=48&duration=4000&pause=100000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Abdul+Wahab" alt="Abdul Wahab" />
+  <br/>
+  <b>Mobile &amp; AI Engineer</b>
 </p>
 
 <p align="center">
@@ -104,16 +108,21 @@ const abdulWahab = {
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-abdulw&show_icons=true&theme=radical&hide_border=true&bg_color=0F0C0E&title_color=d76d77&icon_color=d76d77&text_color=ffffff&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abdulw&layout=compact&theme=radical&hide_border=true&bg_color=0F0C0E&title_color=d76d77&text_color=ffffff" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/radical/4-productive-time.svg" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dev-abdulw&theme=radical&hide_border=true&background=0F0C0E&ring=d76d77&fire=d76d77&currStreakLabel=d76d77" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-abdulw&bg_color=0F0C0E&color=ffffff&line=d76d77&point=ffffff&area=true&area_color=3a1c71&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -125,14 +134,6 @@ const abdulWahab = {
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-abdulw/dev-abdulw/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/dev-abdulw/dev-abdulw/output/github-snake.svg" alt="snake" />
   </picture>
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dev-abdulw&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
 
 ---
