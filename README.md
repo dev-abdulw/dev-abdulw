@@ -108,17 +108,12 @@ const abdulWahab = {
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/0-profile-details.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/radical/3-stats.svg" width="49%" />
   <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/radical/1-repos-per-language.svg" width="49%" />
-  <img src="./profile-summary-card-output/radical/4-productive-time.svg" width="49%" />
+  <img src="./profile-summary-card-output/radical/4-productive-time.svg" width="60%" />
 </p>
 
 <p align="center">
